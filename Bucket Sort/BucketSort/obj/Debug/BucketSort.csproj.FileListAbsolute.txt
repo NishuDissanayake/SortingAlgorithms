@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\bin\Debug\BucketSort.exe
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\bin\Debug\BucketSort.pdb
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\obj\Debug\BucketSort.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\obj\Debug\BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\obj\Debug\BucketSort.exe
+C:\Users\HP\Desktop\Sorting Algorithms\Bucket Sort\BucketSort\BucketSort\obj\Debug\BucketSort.pdb
